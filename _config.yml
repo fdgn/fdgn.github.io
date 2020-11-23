@@ -38,6 +38,7 @@ plugins:
 
 header_pages:
   - about.md 
+  - research.md
 
 minima:
   social_links: 
