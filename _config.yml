@@ -12,6 +12,14 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
+
+# Build settings
+# remote_theme: jekyll/minima
+theme: minima
+plugins:
+#  - jekyll-feed
+#  - jekyll-remote-theme 
+  - jekyll-scholar
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
@@ -19,24 +27,19 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Francesco Dagnino 
-# email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Francesco Dagnino Home Page
-#  Write an awesome description for your new site here. You can edit this
-#  line in _config.yml. It will appear in your document head meta (for
-#  Google search results) and in your feed.xml site description.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://fdgn.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 author: 
   name: Francesco Dagnino 
-
-# Build settings
-# remote_theme: jekyll/minima
-theme: minima
-plugins:
-  - jekyll-feed
-#  - jekyll-remote-theme 
-  - jekyll-scholar
+  email: false 
+  uni: 
+    name: University of Genova 
+    url: unige.it 
+  department:
+    name: Department of Computer Science, Bioengineering, Robotics and System Engineering 
+    url: www.dibris.unige.it
 
 header_pages:
   - about.md 
@@ -45,13 +48,13 @@ header_pages:
 minima:
   social_links: 
     github: fdgn
+    twitter: false 
 
 scholar:
   style: _bibliography/mystyle.csl  # modern-language-association 
   bibliography_template: bib 
   bibliography_list_tag: ul 
   bibliography: pubs.bib 
-#  group_by: type, year 
 
 # Exclude from processing.
 # The following items will not be processed, by default.
