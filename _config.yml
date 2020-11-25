@@ -31,10 +31,12 @@ author:
   name: Francesco Dagnino 
 
 # Build settings
-remote_theme: jekyll/minima
+# remote_theme: jekyll/minima
+theme: minima
 plugins:
   - jekyll-feed
-    jekyll-remote-theme 
+#  - jekyll-remote-theme 
+  - jekyll-scholar
 
 header_pages:
   - about.md 
@@ -44,6 +46,12 @@ minima:
   social_links: 
     github: fdgn
 
+scholar:
+  style: _bibliography/mystyle.csl  # modern-language-association 
+  bibliography_template: bib 
+  bibliography_list_tag: ul 
+  bibliography: pubs.bib 
+#  group_by: type, year 
 
 # Exclude from processing.
 # The following items will not be processed, by default.
