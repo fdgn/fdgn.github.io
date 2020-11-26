@@ -44,10 +44,12 @@ author:
 header_pages:
   - about.md 
   - research.md
+  - pubs.md 
 
 minima:
   social_links: 
     github: fdgn
+    linkedin: francesco-dagnino-43389a1bb 
     twitter: false 
 
 scholar:

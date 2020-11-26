@@ -9,6 +9,5 @@ I am especially interested in employing and developing *coinductive* techniques 
 
 Another are of interest is *categorical logic*, especially the study of aspects of modal and linear logics by means of Lawvere's doctrines.
 
-## Publications 
-{% bibliography %} 
-
+### Committee Membership 
+* Artifact Evaluation Committee, [ECOOP 2020](https://2020.ecoop.org/) 
