@@ -48,6 +48,12 @@ header_pages:
 
 minima:
   social_links: 
+    googlescholar: V1hW620AAAAJ 
+    dblp: 
+      fs: "190"  
+      snd: "4511" 
+    researchgate: Francesco_Dagnino
+    orcid: 0000-0003-3599-3535
     github: fdgn
     linkedin: francesco-dagnino-43389a1bb 
     twitter: false 

@@ -7,7 +7,7 @@
     <span>({{ entry.note}})</span> 
   {% endif %}
   {% if entry.doi %} 
-    <span><a href="{{ entry.doi | prepend: 'http://doi.org/' }}">doi</a></span> 
+    <span><a href="{{ entry.doi | prepend: 'http://doi.org/' }}"><i class="grey ai ai-doi"></i></a></span> 
   {% endif %}
   {% if entry.pdf %} 
     <span><a href="{{ entry.pdf }}">pdf</a></span>
