@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 ## Journal and Conference Papers 
-{% bibliography -q @article || @inproceedings[dest!=ws]" %} 
+{% bibliography %} 
 ## Workshop Papers 
-{% bibliography -q @inproceedings[dest=ws] %} 
+{% bibliography -f ws %} 
 
