@@ -45,6 +45,7 @@ header_pages:
   - about.md 
   - research.md
   - pubs.md 
+  - teaching.md 
 
 minima:
   social_links: 
