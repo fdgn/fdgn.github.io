@@ -4,6 +4,22 @@
   - title: Automata Theory and Computability
     course: BSc in Computer Science 
     role: Teaching Assistant 
+  theses: 
+  - title: Global Types for Asynchronous Networks 
+    student: Riccardo Bianchini 
+    supervisors: Elena Zucca and Paola Giannini (UniPO) 
+    month: October 
+    course: MSc in Computer Science  
+  - title: Buchi Automata and $\omega$-Regular Languages 
+    student: Maurizio Fedriga 
+    supervisors: Elena Zucca 
+    month: October 
+    course: BSc in Computer Science  
+  - title: $\pi$-Calculus: a Formalism for Distributed Computations
+    student: Maurizio Fedriga 
+    supervisors: Elena Zucca 
+    month: October 
+    course: BSc in Computer Science  
 - ay: "2018/2019" 
   courses: 
   - title: Automata Theory and Computability
@@ -12,6 +28,17 @@
   - title: Principles and Paradigms of Programming Languages 
     course: MSc in Computer Science 
     role: Teaching Assistant 
+  theses: 
+  - title: Regular Corecursion for Java-like Languages 
+    student: Pietro Barbieri
+    supervisors: Elena Zucca 
+    month: October 
+    course: MSc in Computer Science  
+  - title: Flexible Coinduction in Agda 
+    student: Luca Ciccone 
+    supervisors: Elena Zucca 
+    month: October 
+    course: MSc in Computer Science  
 - ay: "2017/2018" 
   courses: 
   - title: Foundations of Computer Science 
