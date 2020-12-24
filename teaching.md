@@ -18,5 +18,10 @@ permalink: /teaching/
 {% for t in item.theses %} 
 * "{{ t.title }}" by {{ t.student }}, *{{ t.course }}* ({{ t.month }} {{ item.ay }}), supervised with {{ t.supervisors }}
 {% endfor %}
+{% unless forloop.last %}
+
+---
+
+{% endunless %}
 {% endfor %} 
 
