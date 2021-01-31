@@ -7,7 +7,7 @@ layout: home
 ---
 
 
-I am a PhD student in Computer Science at the [DIBRIS](https://dibris.unige.it), University of Genova and 
+I am Postdoctoral Researcher in Theoretical Computer Science at [DIBRIS](https://dibris.unige.it), University of Genova and 
 member of the [Genoa Logic Group](http://logic.dima.unige.it) 
 
 ## Contacts 
