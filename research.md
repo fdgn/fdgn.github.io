@@ -10,7 +10,7 @@ I am especially interested in employing and developing *coinductive* techniques 
 Another are of interest is *categorical logic*, especially the study of modal and substructural logics via Lawvere's hyperdoctrines. 
 
 ### Research interests 
-* Coinduction 
+* Inference systems and coinduction 
 * Operational semantics for infinite behaviour 
 * Global types and session types 
 * Categorical logic
