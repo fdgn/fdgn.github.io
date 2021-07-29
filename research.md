@@ -20,6 +20,7 @@ Another are of interest is *categorical logic*, especially the study of modal an
 * Viviana Bono 
 * Mariangiola Dezani-Ciancaglini 
 * Paola Giannini 
+* Giuseppe Rosolini 
 * Jurriaan Rot 
 * Elena Zucca 
 
