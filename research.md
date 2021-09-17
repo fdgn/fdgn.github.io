@@ -26,3 +26,4 @@ Another are of interest is *categorical logic*, especially the study of modal an
 
 ### Committee Membership 
 * Artifact Evaluation Committee, [ECOOP 2020](https://2020.ecoop.org/) 
+
