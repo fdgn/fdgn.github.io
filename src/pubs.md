@@ -8,8 +8,12 @@ permalink: /publications/
 {% bibliography --max 5 %} 
 [view all papers](/publications/journals-and-conferences) 
 
+{% if site.data.preprints %} 
 #### Preprints 
-* Francesco Dagnino. **A meta-theory for big-step semantics**, *submitted to journal* [pdf](https://arxiv.org/pdf/2104.05558.pdf)
+{% for p in site.data.preprints %} 
+* {{ p.authors }}. **{{ p.title }}** ({{ p.last-update | date: '%B %Y' }}), *{{p.note}}* [pdf]({{ p.pdf }}) 
+{% endfor %} 
+{% endif %} 
 
 #### PhD Thesis 
 Francesco Dagnino. **Flexible CoinDuction**. [abstract](/publications/phd-thesis)  
