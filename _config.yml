@@ -47,10 +47,6 @@ header_pages:
   - pubs.md 
   - teaching.md 
 
-collections:
-  publications: 
-    output: true 
-    permalink: /:collection/:name
 
 minima:
   social_links: 

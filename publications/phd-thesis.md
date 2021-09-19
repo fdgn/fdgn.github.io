@@ -1,11 +1,9 @@
 ---
 layout: page
 title: Publications   
-type-title: PhD Thesis 
-show: false 
 ---
 
-### {{ page.type-title }} 
+### PhD Thesis 
 Francesco Dagnino. **Flexible CoinDuction**  
 supervised by  Davide Ancona and Elena Zucca  
 DIBRIS - Università di Genova  
