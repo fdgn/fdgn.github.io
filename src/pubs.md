@@ -11,7 +11,7 @@ permalink: /publications/
 {% if site.data.preprints %} 
 #### Preprints 
 {% for p in site.data.preprints %} 
-* {{ p.authors }}. **{{ p.title }}** ({{ p.last-update | date: '%B %Y' }}), *{{p.note}}* [pdf]({{ p.pdf }}) 
+* {{ p.authors }}. **{{ p.title }}** ({{ p.last-update | date: '%B %Y' }}), {% if p.note %} *{{p.note}}* {% endif %} [pdf]({{ p.pdf }}) 
 {% endfor %} 
 {% endif %} 
 
