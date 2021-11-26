@@ -11,7 +11,7 @@ Another are of interest is *categorical logic*, especially the study of modal an
 
 ### Research interests 
 * Inference systems and coinduction 
-* Operational semantics for infinite behaviour 
+* Operational semantics and type systems 
 * Global types and session types 
 * Categorical logic
 
@@ -23,6 +23,9 @@ Another are of interest is *categorical logic*, especially the study of modal an
 * Giuseppe Rosolini 
 * Jurriaan Rot 
 * Elena Zucca 
+
+### Organising Activity 
+* [2nd ItaCa Workshop](https://genoa-logic-group.github.io/itaca-workshop-2021/){:target="_blank"}  (2021) 
 
 ### Committee Membership 
 * Artifact Evaluation Committee, [ECOOP 2020](https://2020.ecoop.org/) 
