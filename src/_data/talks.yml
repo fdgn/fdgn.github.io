@@ -24,4 +24,9 @@
   venue: DIAPASON seminars 
   where: Bologna, Italy 
   note: online 
+- date: 2020-06-18
+  title: Flexible coinductive definitions by inference systems 
+  venue: Computer Science Theory Seminar 
+  where: Tallinn University of Technology, Estonia 
+  note: online 
 
