@@ -8,4 +8,7 @@
 - name: Coinductive Logic Programming (coLP) with coclauses 
   url: https://github.com/davideancona/coLP-with-coclauses 
   description: A Prolog meta-interpreter for flexible coinductive logic programming 
+- name: nuMonitor
+  url: https://github.com/AngeloFerrando/nuMonitor
+  description: "A prototype SWI-Prolog implementation of a six value runtime monitoring system based on nu-calculus, recognising non-monitorable paths. " 
 
