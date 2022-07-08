@@ -7,8 +7,8 @@ layout: home
 ---
 
 
-I am Postdoctoral Researcher in Theoretical Computer Science at [DIBRIS](https://dibris.unige.it), University of Genova and 
-member of the [Genoa Logic Group](http://logic.dima.unige.it) 
+I am Postdoctoral Researcher in Theoretical Computer Science at [DIBRIS](https://dibris.unige.it), University of Genova.  
+I am also member of the [Genoa Logic Group](http://logic.dima.unige.it) and of the MUR PRIN project [T-LADIES](https://t-ladies.di.unimi.it). 
 
 ## Contacts 
 Department of Computer Science, Bioengineering, Robotics and System Engineering  
@@ -24,4 +24,9 @@ Email firstname dot surname at dibris dot unige dot it
 <ul class="social-contacts"> 
   {% include social.html %} 
 </ul> 
+
+<br><br><br>
+<a href="https://t-ladies.di.unimi.it/">
+  <img src="https://t-ladies.di.unimi.it/logo/t-ladies-banner.jpg" height="100"> 
+</a>
 
