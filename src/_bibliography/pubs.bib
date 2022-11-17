@@ -7,12 +7,14 @@
 @string{ecoop22="36th European Conference on Object-Oriented Programming, {ECOOP} 2022"}
 @string{esop17="Programming Languages and Systems - 26th European Symposium on Programming, {ESOP} 2017"}
 @string{esop20="Programming Languages and Systems - 29th European Symposium on Programming, {ESOP} 2020"}
+@string{fscd22="7th International Conference on Formal Structures for Computation and Deduction, {FSCD} 2022"} 
 @string{ftfjp16="Proceedings of 18th Workshop on Formal Techniques for Java-like Programs, {FTfJP}'16"}
 @string{ftfjp18="Proceedings of 20th Workshop on Formal Techniques for Java-like Programs, {FTfJP}'18"}
 @string{ftfjp20="Proceedings of 22nd Workshop on Formal Techniques for Java-like Programs, {FTfJP}'20"}
 @string{ictcs18="Proceedings of the 19th Italian Conference on Theoretical Computer Science, {ICTCS} 2018"} 
 @string{ictcs19="Proceedings of the 20th Italian Conference on Theoretical Computer Science, {ICTCS} 2019"} 
 @string{itp21="12th International Conference on Interactive Theorem Proving, {ITP} 2021"}
+@string{lics22="Proceedings of the  37th Annual {ACM/IEEE} Symposium on Logic in Computer Science, {LICS}'22"}
 
 % journals
 @string{ai="Acta Informatica"}
@@ -55,7 +57,21 @@
 
 % 2022
 
-@inproceedings{CuccibeDO22,
+@article{BianchiniDGZS22,
+  author = {Bianchini, Riccardo and Dagnino, Francesco and Giannini, Paola and Zucca, Elena and Servetto, Marco},
+  title = {Coeffects for Sharing and Mutation},
+  year = {2022},
+  publisher = acm,
+  address = {New York, NY, USA},
+  volume = {6},
+  number = {OOPSLA2},
+  doi = {10.1145/3563319},
+  journal = pacmpl,
+  articleno = {156},
+  numpages = {29},
+}
+
+@inproceedings{CicconeDP22,
   author    = {Luca Ciccone and
                Francesco Dagnino and
                Luca Padovani},
@@ -72,23 +88,26 @@
   note = {distinguished paper award} 
 }
 
-@inproceedings{DagninoP22,
-  author = {Francesco Dagnino and Fabio Pasquali},
-  title = {Logical Foundations of Quantitative Equality},
-  booktitle = {Proceedings of the 37th {ACM/IEEE} Symposium on Logic in Computer Science, {LICS} 2022}, 
-  year = {2022}, 
-  doi = {10.1145/3531130.3533337}, 
-  publisher = {{ACM}}, 
-  note = {to appear}
-}
 
+@inproceedings{DagninoP22,
+  author    = {Francesco Dagnino and
+               Fabio Pasquali},
+  editor    = {Christel Baier and
+               Dana Fisman},
+  title     = {Logical Foundations of Quantitative Equality},
+  booktitle = lics22,
+  pages     = {16:1--16:13},
+  publisher = acm,
+  year      = {2022},
+  doi       = {10.1145/3531130.3533337},
+}
 
 @inproceedings{DagninoG22,
   author    = {Francesco Dagnino and
                Francesco Gavazzo},
   editor    = {Amy P. Felty},
   title     = {A Fibrational Tale of Operational Logical Relations},
-  booktitle = {7th International Conference on Formal Structures for Computation and Deduction, {FSCD} 2022},
+  booktitle = fscd22,
   series    = {LIPIcs},
   volume    = {228},
   pages     = {3:1--3:21},
@@ -96,7 +115,6 @@
   year      = {2022},
   doi       = {10.4230/LIPIcs.FSCD.2022.3},
 }
-
 
 @article{Dagnino22,
   author = {Dagnino, Francesco},
@@ -233,7 +251,6 @@
   publisher = dags,
   year      = {2020},
   doi       = {10.4230/LIPIcs.ECOOP.2020.1},
-  dest      = {top}, 
 }
 
 @inproceedings{DagninoBZD20,
@@ -250,7 +267,6 @@
   publisher = sv,
   year      = {2020},
   doi       = {10.1007/978-3-030-44914-8\_7},
-  dest      = {top}, 
 }
 
 % 2019 
@@ -265,6 +281,26 @@
   doi       = {10.23638/LMCS-15(1:26)2019},
 }
 
+@inproceedings{BarbieriDZA19,
+  author    = {Pietro Barbieri and
+               Francesco Dagnino and
+               Elena Zucca and
+               Davide Ancona},
+  editor    = {Alessandra Cherubini and
+               Nicoletta Sabadini and
+               Simone Tini},
+  title     = {Corecursive Featherweight Java Revisited},
+  booktitle = ictcs19, 
+  series    = {{CEUR} Workshop Proceedings},
+  volume    = {2504},
+  pages     = {158--170},
+  publisher = {CEUR-WS.org},
+  year      = {2019},
+  url       = {http://ceur-ws.org/Vol-2504/paper19.pdf},
+}
+
+% 2018 
+
 @inproceedings{AnconaDZ18,
   author    = {Davide Ancona and
                Francesco Dagnino and
@@ -278,8 +314,23 @@
   publisher = dags, 
   year      = {2018},
   doi       = {10.4230/LIPIcs.ECOOP.2018.21},
-  dest      = {top}, 
 }
+
+@inproceedings{Dagnino18,
+  author    = {Francesco Dagnino},
+  editor    = {Alessandro Aldini and
+               Marco Bernardo},
+  title     = {Flexible Coinduction for Infinite Behaviour},
+  booktitle = {, Urbino, Italy, September 18-20, 2018},
+  series    = {{CEUR} Workshop Proceedings},
+  volume    = {2243},
+  pages     = {17--23},
+  publisher = {CEUR-WS.org},
+  year      = {2018},
+  url       = {http://ceur-ws.org/Vol-2243/award4.pdf},
+}
+
+% 2017 
 
 @article{AnconaDZ-oopsla17,
   author    = {Davide Ancona and
@@ -309,7 +360,6 @@
   publisher = sv,
   year      = {2017},
   doi       = {10.1007/978-3-662-54434-1\_2},
-  dest      = {top}, 
 }
 
 
