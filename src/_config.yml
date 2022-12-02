@@ -49,7 +49,7 @@ header_pages:
 
 
 minima:
-  social_links: 
+  social-links: 
     googlescholar: V1hW620AAAAJ 
     dblp: 
       fs: "190"  
