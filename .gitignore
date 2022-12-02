@@ -1,2 +1,6 @@
 docs/feed.xml
 docs/README.md 
+**/_site 
+**/GemFile.lock 
+**/.jekyll-cache 
+
