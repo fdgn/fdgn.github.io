@@ -4,7 +4,10 @@ title: About
 permalink: /about/
 ---
 
-* **From February 2021**: Postdoctoral Researcher in Theoretical Computer Science at [DIBRIS](https://dibris.unige.it), University of Genova
+* **From February 2023**: Assistant Professor (RTDA) at [DIBRIS](https://dibris.unige.it), University of Genova
+* **February 2021-January 2023**: Postdoctoral Researcher in Theoretical Computer Science at [DIBRIS](https://dibris.unige.it), University of Genova
+* **June 2022**: Distinguished Paper Award at [ECOOP 2022](https://2022.ecoop.org/)  
+"Fair Termination of Multiparty Sessions" by L.Ciccone, F.Dagnino and L.Padovani 
 * **September 2021**: Award for the Best Italian PhD Thesis in Theoretical Computer Science, by the [Italian Chapter](https://eatcs.org/index.php/italian-chapter) of [EATCS](https://eatcs.org/index.php/about)  
 Thesis: "Flexible CoInduction",  available [here](https://web.archive.org/web/20210214063202id_/https://iris.unige.it/retrieve/handle/11567/1035050/502494/phdunige_3767524.pdf)
 * **November 2017-October 2020**: PhD in Computer Science, University of Genova
