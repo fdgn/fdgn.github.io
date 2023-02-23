@@ -7,7 +7,7 @@ layout: home
 ---
 
 
-I am Assistant Professor (RTD-A)at [DIBRIS](https://dibris.unige.it), University of Genova.  
+I am Research Fellow (RTD-A)at [DIBRIS](https://dibris.unige.it), University of Genova.  
 I am also 
 * member of the [Genoa Logic Group](http://logic.dima.unige.it) 
 * member of the MUR project (PRIN 2020TL3X8X) [T-LADIES](https://t-ladies.di.unimi.it) 

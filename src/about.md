@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-* **From February 2023**: Assistant Professor (RTD-A) at [DIBRIS](https://dibris.unige.it), University of Genova
+* **From February 2023**: Research Fellow (RTD-A) at [DIBRIS](https://dibris.unige.it), University of Genova
 * **February 2021-January 2023**: Postdoctoral Researcher in Theoretical Computer Science at [DIBRIS](https://dibris.unige.it), University of Genova
 * **June 2022**: Distinguished Paper Award at [ECOOP 2022](https://2022.ecoop.org/)  
 "Fair Termination of Multiparty Sessions" by L.Ciccone, F.Dagnino and L.Padovani 

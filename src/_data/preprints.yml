@@ -1,4 +1,9 @@
 
+- authors: "Riccardo Bianchini, Francesco Dagnino, Paola Giannini and Elena Zucca"
+  title: "Multi-graded Featherweight Java"
+  last-update: 2023-02-16
+  note: to appear in ECOOP 2023
+  pdf : https://arxiv.org/pdf/2302.07782.pdf 
 - authors: Francesco Dagnino and Fabio Pasquali 
   title: Quantitative Equality in Substructural Logic via Lipschitz Doctrines 
   last-update: 2022-11-29 
