@@ -16,7 +16,7 @@ I am also
 ## Contacts 
 Department of Computer Science, Bioengineering, Robotics and System Engineering  
 Via Dodecaneso 35, Genova, Italy  
-Room 309
+Room 209
 
 Email firstname dot surname at dibris dot unige dot it 
 
