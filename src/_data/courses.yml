@@ -1,4 +1,15 @@
 
+- ay: "2023/2024" 
+  courses: 
+  - title: "Introduction to Type Theory: from foundations to practice" 
+    course: "PhD in Computer Science and Systems Engineering, MSc in Mathematics" 
+    role: Instructor 
+  - title: Principles and Paradigms of Programming Languages 
+    course: "MSc in Computer Science"
+    role: Instructor 
+  - title: Languages and Object-Oriented Programming 
+    course: "BSc in Computer Science" 
+    role: Instructor 
 - ay: "2022/2023" 
   courses: 
   - title: Introduction to Type Theory from foundations to practice 
